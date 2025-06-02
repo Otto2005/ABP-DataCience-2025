@@ -2,7 +2,7 @@
     Proyecto ABP - Evidencia 2
     Integrantes del grupo:
         Milton Amaya, DNI:30.310.864
-        Otto Acosta, DNI:35.764.199
+        Otto Acosta, DNI:46.227.388
         Jesica Elizabeth Amaya, DNI:27.660.701
         Shunko Rodriguez, DNI:30.151.105
         Rocío Belén Issetta, DNI:39.172.315
